@@ -32,7 +32,7 @@ public static final String scriptName = "Terminal.java";//本脚本名称
 String scriptPath = "/storage/emulated/0/LD_Module/Plugin";
 public static final String scriptVersion = "（20231017）";//本脚本版本
 Toast(scriptName + " 开始加载，请稍候。\n许你一个美好的明天，愿世间的每一个角落都洒满璀璨的星光。");
-public static final String linkText = "https://cloud-inspired.goosebt.com/Terminal.zip";//本脚本下载地址
+public static final String linkText = "https://github.com/BatchClayderman/Terminal.java";//本脚本下载地址
 
 public static final String allOrders = scriptName
 	+ "\n\n"
